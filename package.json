@@ -1,0 +1,24 @@
+{
+  "name": "node_api_mc_b_bt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imkhw/node_api_mc_b_bt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imkhw/node_api_mc_b_bt/issues"
+  },
+  "homepage": "https://github.com/imkhw/node_api_mc_b_bt#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
